@@ -1,1 +1,2 @@
 git checkout file_name : For Retrning Back to Latest Save
+git log : For Changes
