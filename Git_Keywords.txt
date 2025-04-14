@@ -1,2 +1,6 @@
 git checkout file_name : For Retrning Back to Latest Save
 git log : For Changes
+git diff file_name : Getting Diffrences That Happend
+git add . : For Adding All Changes That Happend To all of the files
+git commit : for commiting the Changes 
+get checkout file_name : change to u all changes before commiting
