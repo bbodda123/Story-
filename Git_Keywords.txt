@@ -5,6 +5,9 @@ git diff file_name : Getting Diffrences That Happend
 git add . : For Adding All Changes To Staging Area Before commiting
 git rm --cached -r . : For Removing All Changes From Staging area
 
+Cloninig :
+git Clone link
+
 git commit : for commiting the Changes 
 git checkout file_name : change to u all changes before commiting
 
