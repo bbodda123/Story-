@@ -1,17 +1,12 @@
 git checkout file_name : For Retrning Back to Latest Save
 git log : For Changes    Note:(Prees Q)
 git diff file_name : Getting Diffrences That Happend
-git add . : For Adding All Changes That Happend To all of the files
+
+git add . : For Adding All Changes To Staging Area Before commiting
+git rm --cached -r . : For Removing All Changes From Staging area
+
 git commit : for commiting the Changes 
 git checkout file_name : change to u all changes before commiting
 
 git remote add origin https://<<link>>
 git push -u origin master
-
-git remote add origin https://<<link>>
-git push -u origin master (To Push the Saved Files To Git_Hub)
-
-branches:
-git branch branch_name 
-git checkout branch_name  : To Make our Main Branch
-git branch : to get where is the branch we are on 
